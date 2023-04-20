@@ -11,4 +11,4 @@ require (
 
 require filippo.io/edwards25519 v1.0.0 // indirect
 
-replace github.com/tulir/whatsmeow => github.com/ratnokustiawan/whatsmeow/dev-ratno //edit by ratno
+replace github.com/tulir/whatsmeow => github.com/ratnokustiawan/whatsmeow/dev1 //edit by ratno
